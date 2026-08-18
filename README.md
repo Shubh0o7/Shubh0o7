@@ -4,6 +4,16 @@ BSc Computer Science student from Mumbai, India, focused on building practical *
 
 I learn by turning ideas into working systems—from real-time OpenCV tools and gesture-controlled robotics to role-based web applications.
 
+## About Me
+
+I am a BSc Computer Science student based in Mumbai, focused on building practical **artificial intelligence, machine learning, computer vision, robotics, and full-stack applications**.
+
+My projects include real-time computer-vision applications with Python and OpenCV, an AI-powered gesture-controlled robotics system combining MediaPipe, Transformer-based classification, NLP, Webots, and blockchain audit logging, and a role-based grievance-management platform built with PHP, MariaDB, Docker, and GitHub Actions.
+
+I enjoy turning technical concepts into demonstrable, well-documented projects. I am currently strengthening my skills in deep learning, model evaluation, software architecture, databases, deployment, and reproducible engineering workflows.
+
+I am open to opportunities where I can contribute as a **software engineering, machine learning, computer-vision, or AI engineering intern** while continuing to grow through real-world problem solving.
+
 ## Current focus
 
 - Machine learning and deep-learning fundamentals
