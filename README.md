@@ -1,51 +1,47 @@
-# Hi, I'm Shubh 👋
+# Hi, I'm Shubham Shukla
 
-🎓 BSc Computer Science Student  
-🤖 Aspiring AI / ML Engineer  
-📍 Mumbai, India  
+BSc Computer Science student from Mumbai, India, focused on building practical **AI/ML, computer-vision, and full-stack applications**.
 
----
+I learn by turning ideas into working systems—from real-time OpenCV tools and gesture-controlled robotics to role-based web applications.
 
-## 🚀 About Me
-- Passionate about Artificial Intelligence and Machine Learning
-- Strong interest in Python, Data Science, and real-world problem solving
-- Planning to pursue **Master’s in AI / CS abroad**
-- Love learning by building projects
+## Current focus
 
----
+- Machine learning and deep-learning fundamentals
+- Computer vision with OpenCV and MediaPipe
+- Python, PyTorch, scikit-learn, PHP, SQL, and Docker
+- Reproducible experiments, clean documentation, and deployment
 
-## 🛠️ Skills
-- **Languages:** Python, C, R
-- **AI / ML:** NumPy, Pandas, Scikit-learn, OpenCV
-- **Data:** Data Cleaning, EDA, Visualization
-- **Tools:** Git, GitHub, VS Code
+## Featured projects
 
----
+### Gesture-Controlled Robot with AI and Blockchain
+An end-to-end system that combines MediaPipe hand tracking, Transformer-based gesture classification, NLP command interpretation, blockchain audit logging, and Webots robot simulation.
 
-## 📂 Featured Projects
-🔹 **Student Performance Prediction**  
-Machine learning model to predict student outcomes using academic data.  
-➡️ Tech: Python, Pandas, Scikit-learn  
+[View the repository](https://github.com/Shubh0o7/gesture-hand-sensor)
 
-🔹 **Spam Email Classifier**  
-Binary classification system to detect spam emails.  
-➡️ Tech: NLP, Naive Bayes  
+### Online Complaint and Grievance Management System
+A role-based PHP/MariaDB application with separate workflows for complainants, administrators, department managers, and complaint officers. Includes Docker Compose, CI/CD, audit trails, and a browser-based demo.
 
-🔹 **Face Recognition System**  
-Real-time face detection and recognition using OpenCV.  
-➡️ Tech: OpenCV, Python  
+[View the repository](https://github.com/Shubh0o7/complaint-management-system) · [Open the demo](https://shubh0o7.github.io/complaint-management-system/)
 
-🔹 **Recommendation System**  
-Content-based recommendation engine.  
-➡️ Tech: ML, Python  
+### Face Tracer
+A real-time computer-vision application using Python and OpenCV to detect faces, track multiple faces, and draw motion trails from webcam, image, or video input.
 
----
+[View the repository](https://github.com/Shubh0o7/face-tracer)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+### Portfolio
+Personal portfolio website showcasing my projects and technical work.
 
----
+[View the repository](https://github.com/Shubh0o7/portfolio.)
 
-## 📫 Connect With Me
-- LinkedIn: (add later)
-- Email: shubhamshukla8926@gmail.com
+## Tech stack
+
+`Python` `PyTorch` `scikit-learn` `OpenCV` `MediaPipe` `NumPy` `Pandas` `PHP` `SQL` `Docker` `GitHub Actions`
+
+## Connect
+
+- Portfolio: [portfolio.](https://github.com/Shubh0o7/portfolio.)
+- Email: [shubhamshukla8926@gmail.com](mailto:shubhamshukla8926@gmail.com)
+
+## Activity
+
+![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubh0o7&hide_border=true&area=true&theme=github-compact)
